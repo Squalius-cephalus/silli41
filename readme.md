@@ -6,7 +6,7 @@ PCB is designed for MX style keyswitches, but it should support Choc V2 switches
 
 [QMK](https://github.com/qmk/qmk_firmwarehttp:// "QMK") and [Vial](https://github.com/vial-kb/vial-qmk "Vial") firmwares has very barebones keymapping. Good for quick testing, but there is my current layout for Vial firmare. It is designed for a Finnish layout.
 
-
+![](https://raw.githubusercontent.com/Squalius-cephalus/silli41/main/image.png)
 
 ### Bill of materials
 - 41x MX compatible keyswitches
