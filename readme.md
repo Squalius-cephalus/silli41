@@ -24,3 +24,5 @@ PCB design uses footprints from [ScottoKeebs](https://github.com/joe-scotto/scot
 
 ### TODO
 1. Build guide
+2. Redo traces
+3. Split the top plate in two
